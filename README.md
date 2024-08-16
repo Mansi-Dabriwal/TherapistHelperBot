@@ -4,7 +4,7 @@
 This project focuses on the evaluation, optimization, and enhancement of a Retrieval-Augmented Generation (RAG) pipeline for a chatbot designed to assist in therapy sessions. The chatbot leverages a combination of retrieval and generation models to provide contextually relevant and accurate responses based on pre-embedded transcripts from therapy sessions. Key functionalities include creating customized questionnaires, adding real-time notes, and fine-tuning the model for improved performance.
 
 ## Demo
-YouTube link: [Therapist Helper ChatBot](https://youtu.be/4mpvg-cL0wQ)
+YouTube link: [Therapist Helper ChatBot](https://youtu.be/SHKgwbI4lN4)
 
 ## Report
 Report link: [Therapist Helper Chatbot.pdf](https://github.com/Mansi-Dabriwal/TherapistHelperBot/blob/main/Final%20Report_%20Therapist%20Helper%20Chatbot.pdf)
