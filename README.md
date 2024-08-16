@@ -10,11 +10,12 @@ YouTube link: [Therapist Helper ChatBot](https://youtu.be/4mpvg-cL0wQ)
 1. [Introduction](#introduction)
 2. [Setup](#setup)
 3. [Usage](#usage)
-4. [Performance Metrics](#performance-metrics)
-5. [Improvements Implemented](#improvements-implemented)
-6. [Challenges](#challenges)
-7. [Contributions](#contributions)
-8. [License](#license)
+4. [Creating Questionnaires](#creating-questionnaires)
+5. [Performance Metrics](#performance-metrics)
+6. [Improvements Implemented](#improvements-implemented)
+7. [Challenges](#challenges)
+8. [Contributions](#contributions)
+9. [License](#license)
 
 ## Introduction
 The Therapist Helper chatbot is designed to assist therapists by providing contextually relevant information, generating customized questionnaires, and allowing therapists to add real-time notes during sessions. The bot uses OpenAI's language models for both retrieval and generation tasks, ensuring a comprehensive understanding of the user's queries and generating accurate responses. The model is fine-tuned for better alignment with therapy-specific needs.
@@ -59,21 +60,21 @@ The Therapist Helper chatbot is designed to assist therapists by providing conte
    ```
    This script calculates the performance metrics and outputs the results.
 
-### Creating Questionnaires
+## Creating Questionnaires
 The chatbot can generate a customized questionnaire based on the patient's current feeling and desired feeling.
 To create a questionnaire:
 - Navigate to the 'Create Questionnaire' section in the Streamlit app.
 - Choose the patient's current feeling and desired feeling.
 - The bot will generate the questions, and you can download the questionnaire as a file.
 
-### Adding Notes
+## Adding Notes
 Therapists can add real-time notes during sessions using the 'Add Notes' functionality.
 To add notes:
 - Use the text box provided in the Streamlit app to input your notes.
 - After completing the session, submit your notes.
 - The notes will be curated and made available for download.
 
-### Fine-Tuning the Model
+## Fine-Tuning the Model
 The model can be fine-tuned to better align with specific therapy-related queries and context.
 
 Steps for Fine-Tuning:
