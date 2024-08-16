@@ -16,7 +16,7 @@ YouTube link: [Therapist Helper ChatBot](https://youtu.be/4mpvg-cL0wQ)
 7. [Performance Metrics](#performance-metrics)
 8. [Improvements Implemented](#improvements-implemented)
 9. [Challenges](#challenges)
-10. [Error Handling and Troubleshooting](#error-handling)
+10. [Error Handling and Troubleshooting](#error-handling-and-Troubleshooting)
 11. [Contributions](#contributions)
 12. [License](#license)
 
