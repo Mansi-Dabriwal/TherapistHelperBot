@@ -16,8 +16,9 @@ YouTube link: [Therapist Helper ChatBot](https://youtu.be/4mpvg-cL0wQ)
 7. [Performance Metrics](#performance-metrics)
 8. [Improvements Implemented](#improvements-implemented)
 9. [Challenges](#challenges)
-10. [Contributions](#contributions)
-11. [License](#license)
+10. [Error Handling and Troubleshooting](#error-handling)
+11. [Contributions](#contributions)
+12. [License](#license)
 
 ## Introduction
 The Therapist Helper chatbot is designed to assist therapists by providing contextually relevant information, generating customized questionnaires, and allowing therapists to add real-time notes during sessions. The bot uses OpenAI's language models for both retrieval and generation tasks, ensuring a comprehensive understanding of the user's queries and generating accurate responses. The model is fine-tuned for better alignment with therapy-specific needs.
@@ -131,8 +132,25 @@ The following metrics are calculated to evaluate the chatbot's performance:
 - Ensuring the faithfulness of generated answers to the source material.
 - Balancing flexibility and specificity in the creation of therapy questionnaires.
 
+## Error Handling and Troubleshooting
+
+### Common Issues:
+- **RateLimitError:** You have exceeded your current quota. Please check your plan and billing details.
+- **InvalidRequestError:** There was an issue with your request, likely due to invalid parameters or incorrect API key.
+- **Network Issues:** Ensure you have a stable internet connection.
+
+### Solutions:
+- **Retry Logic:** The application has built-in retry logic for handling temporary rate limits. If the error persists, consider checking your OpenAI plan and usage.
+- **API Key:** Ensure your API key is correct and has the necessary permissions.
+
 ## Contributions
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/YourFeature`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add some feature'`).
+5. Push to the branch (`git push origin feature/YourFeature`).
+6. Create a new Pull Request.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
