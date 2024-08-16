@@ -5,7 +5,9 @@ This project focuses on the evaluation, optimization, and enhancement of a Retri
 
 ## Demo
 YouTube link: [Therapist Helper ChatBot](https://youtu.be/4mpvg-cL0wQ)
-Report: 
+
+## Report
+Report link: 
 
 ## Table of Contents
 1. [Introduction](#introduction)
