@@ -153,5 +153,10 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 5. Push to the branch (`git push origin feature/YourFeature`).
 6. Create a new Pull Request.
 
+## Contact Info:
+Name: Mansi Dabriwal
+LinkedIn: https://www.linkedin.com/in/mansi-da
+Email: mansi07dabriwal@gmail.com, dabriwal.m@northeastern.edu
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
