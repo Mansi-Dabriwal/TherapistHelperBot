@@ -19,7 +19,8 @@ Report:
 9. [Challenges](#challenges)
 10. [Error Handling and Troubleshooting](#error-handling-and-Troubleshooting)
 11. [Contributions](#contributions)
-12. [License](#license)
+12. [Contact Info](#contact-info)
+13. [License](#license)
 
 ## Introduction
 The Therapist Helper chatbot is designed to assist therapists by providing contextually relevant information, generating customized questionnaires, and allowing therapists to add real-time notes during sessions. The bot uses OpenAI's language models for both retrieval and generation tasks, ensuring a comprehensive understanding of the user's queries and generating accurate responses. The model is fine-tuned for better alignment with therapy-specific needs.
