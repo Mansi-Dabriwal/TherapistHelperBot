@@ -4,7 +4,7 @@
 This project focuses on the evaluation, optimization, and enhancement of a Retrieval-Augmented Generation (RAG) pipeline for a chatbot designed to assist in therapy sessions. The chatbot leverages a combination of retrieval and generation models to provide contextually relevant and accurate responses based on pre-embedded transcripts from therapy sessions. Key functionalities include creating customized questionnaires, adding real-time notes, and fine-tuning the model for improved performance.
 
 ## Demo
-YouTube link: [Therapist Helper ChatBot](https://youtu.be/c3FsyAKlvtc)
+YouTube link: [Therapist Helper ChatBot](https://youtu.be/4mpvg-cL0wQ)
 
 ## Table of Contents
 1. [Introduction](#introduction)
