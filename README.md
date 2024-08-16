@@ -7,7 +7,7 @@ This project focuses on the evaluation, optimization, and enhancement of a Retri
 YouTube link: [Therapist Helper ChatBot](https://youtu.be/4mpvg-cL0wQ)
 
 ## Report
-Report link: 
+Report link: [Therapist Helper Chatbot.pdf](https://github.com/Mansi-Dabriwal/TherapistHelperBot/blob/main/Final%20Report_%20Therapist%20Helper%20Chatbot.pdf)
 
 ## Table of Contents
 1. [Introduction](#introduction)
