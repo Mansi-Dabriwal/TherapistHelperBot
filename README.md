@@ -11,11 +11,13 @@ YouTube link: [Therapist Helper ChatBot](https://youtu.be/4mpvg-cL0wQ)
 2. [Setup](#setup)
 3. [Usage](#usage)
 4. [Creating Questionnaires](#creating-questionnaires)
-5. [Performance Metrics](#performance-metrics)
-6. [Improvements Implemented](#improvements-implemented)
-7. [Challenges](#challenges)
-8. [Contributions](#contributions)
-9. [License](#license)
+5. [Adding Notes](#adding-notes)
+6. [Fine-Tuning the Model](#fine-tuning-the-model)
+7. [Performance Metrics](#performance-metrics)
+8. [Improvements Implemented](#improvements-implemented)
+9. [Challenges](#challenges)
+10. [Contributions](#contributions)
+11. [License](#license)
 
 ## Introduction
 The Therapist Helper chatbot is designed to assist therapists by providing contextually relevant information, generating customized questionnaires, and allowing therapists to add real-time notes during sessions. The bot uses OpenAI's language models for both retrieval and generation tasks, ensuring a comprehensive understanding of the user's queries and generating accurate responses. The model is fine-tuned for better alignment with therapy-specific needs.
@@ -99,7 +101,6 @@ Steps for Fine-Tuning:
 ### Performance Metrics 
 - The project includes scripts for calculating various performance metrics, such as Context Precision, Context Recall, Faithfulness, and more.
 
-## Performance Metrics
 The following metrics are calculated to evaluate the chatbot's performance:
 
 1. **Retrieval Metrics**:
